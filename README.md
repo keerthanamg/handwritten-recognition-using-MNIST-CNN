@@ -1,1 +1,1 @@
-# handwritten-recognition-MNSIT-CNN-using-
+Using Deep Learning and Neural Network, develop a Convolutional Neural Network for MNIST Handwritten Digit Classification.The MNIST dataset is an acronym that stands for the Modified National Institute of Standards and Technology dataset.
